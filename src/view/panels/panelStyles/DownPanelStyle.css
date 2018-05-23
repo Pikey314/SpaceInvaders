@@ -1,0 +1,11 @@
+.vbox {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-background-color: grey;
+}
+
+.red-border {
+    -fx-background-color: red, white;
+    -fx-background-insets: 0, 2;
+    -fx-padding: 2.0;
+}

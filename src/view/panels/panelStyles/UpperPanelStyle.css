@@ -1,0 +1,5 @@
+.hbox {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-background-color: grey;
+}
